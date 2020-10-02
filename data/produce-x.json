@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Pumpkin",
+    "keywords": ["pumpkin", "jack o lantern"],
+    "value": "4735",
+    "uiColor": "orange"
+  },
+  {
+    "name": "Green Seedless Grapes - 1.5lb Bag",
+    "keywords": ["grapes"],
+    "value": "014668715046",
+    "uiColor": "green"
+  },
+  {
+    "name": "Red Seedless Grapes - 1.5lb Bag",
+    "keywords": ["grapes"],
+    "value": "014668715053",
+    "uiColor": "purple"
+  }
+]

@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "name": "target-db",
+    "version": "0.0.1",
+    "scripts": {
+        "validate": "foy validate",
+        "build": "foy build",
+        "postinstall": "foy build"
+    },
+    "devDependencies": {
+        "@types/node": "^14.11.2",
+        "foy": "^0.2.1",
+        "jsonschema": "^1.2.7"
+    }
+}
