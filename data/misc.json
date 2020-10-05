@@ -22,5 +22,17 @@
 		"keywords": ["water", "dasani"],
 		"value": "049000031652",
 		"uiColor": "aqua"
+	},
+	{
+		"name": "Reusable Bag, Bullseye Canvas - Target",
+		"keywords": ["reusable bag", "target"],
+		"value": "067914555651",
+		"uiColor": "red"
+	},
+	{
+		"name": "Reusable Bag, Target Reusable Tote",
+		"keywords": ["reusable bag", "tote", "target"],
+		"value": "813287025228",
+		"uiColor": "red"
 	}
 ]
