@@ -1,5 +1,11 @@
 [
   {
+    "name": "Organic Bananas - 2lb bunch",
+    "value": "074904100005",
+    "keywords": ["organic bananas"],
+    "uiColor": "yellow"
+  },
+  {
     "name": "Pumpkin",
     "keywords": ["pumpkin", "jack o lantern", "carving"],
     "value": "4735",
