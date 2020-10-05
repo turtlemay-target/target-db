@@ -1,26 +1,26 @@
 [
-  {
-    "name": "Organic Bananas - 2lb bunch",
-    "value": "074904100005",
-    "keywords": ["organic bananas"],
-    "uiColor": "yellow"
-  },
-  {
-    "name": "Pumpkin",
-    "keywords": ["pumpkin", "jack o lantern", "carving"],
-    "value": "4735",
-    "uiColor": "orange"
-  },
-  {
-    "name": "Green Seedless Grapes - 1.5lb Bag",
-    "keywords": ["grapes"],
-    "value": "014668715046",
-    "uiColor": "green"
-  },
-  {
-    "name": "Red Seedless Grapes - 1.5lb Bag",
-    "keywords": ["grapes"],
-    "value": "014668715053",
-    "uiColor": "purple"
-  }
+	{
+		"name": "Organic Bananas - 2lb bunch",
+		"value": "074904100005",
+		"keywords": ["organic bananas"],
+		"uiColor": "yellow"
+	},
+	{
+		"name": "Pumpkin",
+		"keywords": ["pumpkin", "jack o lantern", "carving"],
+		"value": "4735",
+		"uiColor": "orange"
+	},
+	{
+		"name": "Green Seedless Grapes - 1.5lb Bag",
+		"keywords": ["grapes"],
+		"value": "014668715046",
+		"uiColor": "green"
+	},
+	{
+		"name": "Red Seedless Grapes - 1.5lb Bag",
+		"keywords": ["grapes"],
+		"value": "014668715053",
+		"uiColor": "purple"
+	}
 ]

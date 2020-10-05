@@ -1,182 +1,182 @@
 [
-  {
-    "name": "Apple - Gala",
-    "keywords": ["apple"],
-    "value": "4205",
-    "uiColor": "red"
-  },
-  {
-    "name": "Apple - Fuji",
-    "keywords": ["apple"],
-    "value": "4216",
-    "uiColor": "red"
-  },
-  {
-    "name": "Apple - Honey Crisp",
-    "keywords": ["apple"],
-    "value": "4195",
-    "uiColor": "red"
-  },
-  {
-    "name": "Apple - Pink Lady",
-    "value": "4180",
-    "uiColor": "red"
-  },
-  {
-    "name": "Apple - Granny Smith",
-    "value": "4575",
-    "uiColor": "green"
-  },
-  {
-    "name": "Avocado",
-    "value": "4046",
-    "uiColor": "green"
-  },
-  {
-    "name": "Avocado",
-    "keywords": ["avocado"],
-    "value": "4225",
-    "uiColor": "green"
-  },
-  {
-    "name": "Banana",
-    "value": "8011",
-    "priority-keywords": ["banana"],
-    "uiColor": "yellow"
-  },
-  {
-    "name": "Banana (Plantain)",
-    "value": "4235",
-    "uiColor": "green"
-  },
-  {
-    "name": "Bulk Corn",
-    "keywords": ["corn"],
-    "value": "4078",
-    "uiColor": "yellow"
-  },
-  {
-    "name": "Cucumber (Organic)",
-    "value": "94593",
-    "uiColor": "green"
-  },
-  {
-    "name": "Cucumber (Field)",
-    "keywords": ["cucumber"],
-    "value": "9062",
-    "uiColor": "green"
-  },
-  {
-    "name": "Grapefruit",
-    "keywords": ["grapefruit"],
-    "value": "4288",
-    "uiColor": "red"
-  },
-  {
-    "name": "Lemon",
-    "keywords": ["lemon"],
-    "value": "4033",
-    "uiColor": "yellow"
-  },
-  {
-    "name": "Lime",
-    "keywords": ["lime"],
-    "value": "4048",
-    "uiColor": "green"
-  },
-  {
-    "name": "Mango",
-    "keywords": ["mango"],
-    "value": "4051",
-    "uiColor": "yellow"
-  },
-  {
-    "name": "Orange (Large)",
-    "keywords": ["orange"],
-    "value": "3107",
-    "uiColor": "orange"
-  },
-  {
-    "name": "Orange (Minneola)",
-    "value": "4383",
-    "uiColor": "orange"
-  },
-  {
-    "name": "Papaya",
-    "value": "3112",
-    "uiColor": "orange"
-  },
-  {
-    "name": "Pineapple",
-    "value": "4029",
-    "uiColor": "yellow"
-  },
-  {
-    "name": "Onion - Red",
-    "keywords": ["onion"],
-    "value": "4085",
-    "uiColor": "purple"
-  },
-  {
-    "name": "Onion - Sweet",
-    "priority-keywords": ["onion"],
-    "value": "4666",
-    "uiColor": "yellow"
-  },
-  {
-    "name": "Onion - White",
-    "keywords": ["onion"],
-    "value": "4660",
-    "uiColor": "white"
-  },
-  {
-    "name": "Potato - Russet",
-    "priority-keywords": ["potato"],
-    "value": "4725",
-    "uiColor": "brown"
-  },
-  {
-    "name": "Potato - Sweet Potato",
-    "keywords": ["sweet potato"],
-    "value": "9091",
-    "uiColor": "orange"
-  },
-  {
-    "name": "PF Peach",
-    "value": "4038",
-    "uiColor": "yellow"
-  },
-  {
-    "name": "PF Nectarine",
-    "value": "4036",
-    "uiColor": "orange"
-  },
-  {
-    "name": "PF Plum",
-    "value": "4440",
-    "uiColor": "purple"
-  },
-  {
-    "name": "Cantaloupe",
-    "keywords": ["melon"],
-    "value": "4050",
-    "uiColor": "yellow"
-  },
-  {
-    "name": "Honeydew",
-    "keywords": ["melon"],
-    "value": "4034",
-    "uiColor": "green"
-  },
-  {
-    "name": "Watermelon, Mini",
-    "value": "3421",
-    "uiColor": "green"
-  },
-  {
-    "name": "Watermelon, Seedless",
-    "keywords": ["watermelon"],
-    "value": "4032",
-    "uiColor": "green"
-  }
+	{
+		"name": "Apple - Gala",
+		"keywords": ["apple"],
+		"value": "4205",
+		"uiColor": "red"
+	},
+	{
+		"name": "Apple - Fuji",
+		"keywords": ["apple"],
+		"value": "4216",
+		"uiColor": "red"
+	},
+	{
+		"name": "Apple - Honey Crisp",
+		"keywords": ["apple"],
+		"value": "4195",
+		"uiColor": "red"
+	},
+	{
+		"name": "Apple - Pink Lady",
+		"value": "4180",
+		"uiColor": "red"
+	},
+	{
+		"name": "Apple - Granny Smith",
+		"value": "4575",
+		"uiColor": "green"
+	},
+	{
+		"name": "Avocado",
+		"value": "4046",
+		"uiColor": "green"
+	},
+	{
+		"name": "Avocado",
+		"keywords": ["avocado"],
+		"value": "4225",
+		"uiColor": "green"
+	},
+	{
+		"name": "Banana",
+		"value": "8011",
+		"priority-keywords": ["banana"],
+		"uiColor": "yellow"
+	},
+	{
+		"name": "Banana (Plantain)",
+		"value": "4235",
+		"uiColor": "green"
+	},
+	{
+		"name": "Bulk Corn",
+		"keywords": ["corn"],
+		"value": "4078",
+		"uiColor": "yellow"
+	},
+	{
+		"name": "Cucumber (Organic)",
+		"value": "94593",
+		"uiColor": "green"
+	},
+	{
+		"name": "Cucumber (Field)",
+		"keywords": ["cucumber"],
+		"value": "9062",
+		"uiColor": "green"
+	},
+	{
+		"name": "Grapefruit",
+		"keywords": ["grapefruit"],
+		"value": "4288",
+		"uiColor": "red"
+	},
+	{
+		"name": "Lemon",
+		"keywords": ["lemon"],
+		"value": "4033",
+		"uiColor": "yellow"
+	},
+	{
+		"name": "Lime",
+		"keywords": ["lime"],
+		"value": "4048",
+		"uiColor": "green"
+	},
+	{
+		"name": "Mango",
+		"keywords": ["mango"],
+		"value": "4051",
+		"uiColor": "yellow"
+	},
+	{
+		"name": "Orange (Large)",
+		"keywords": ["orange"],
+		"value": "3107",
+		"uiColor": "orange"
+	},
+	{
+		"name": "Orange (Minneola)",
+		"value": "4383",
+		"uiColor": "orange"
+	},
+	{
+		"name": "Papaya",
+		"value": "3112",
+		"uiColor": "orange"
+	},
+	{
+		"name": "Pineapple",
+		"value": "4029",
+		"uiColor": "yellow"
+	},
+	{
+		"name": "Onion - Red",
+		"keywords": ["onion"],
+		"value": "4085",
+		"uiColor": "purple"
+	},
+	{
+		"name": "Onion - Sweet",
+		"priority-keywords": ["onion"],
+		"value": "4666",
+		"uiColor": "yellow"
+	},
+	{
+		"name": "Onion - White",
+		"keywords": ["onion"],
+		"value": "4660",
+		"uiColor": "white"
+	},
+	{
+		"name": "Potato - Russet",
+		"priority-keywords": ["potato"],
+		"value": "4725",
+		"uiColor": "brown"
+	},
+	{
+		"name": "Potato - Sweet Potato",
+		"keywords": ["sweet potato"],
+		"value": "9091",
+		"uiColor": "orange"
+	},
+	{
+		"name": "PF Peach",
+		"value": "4038",
+		"uiColor": "yellow"
+	},
+	{
+		"name": "PF Nectarine",
+		"value": "4036",
+		"uiColor": "orange"
+	},
+	{
+		"name": "PF Plum",
+		"value": "4440",
+		"uiColor": "purple"
+	},
+	{
+		"name": "Cantaloupe",
+		"keywords": ["melon"],
+		"value": "4050",
+		"uiColor": "yellow"
+	},
+	{
+		"name": "Honeydew",
+		"keywords": ["melon"],
+		"value": "4034",
+		"uiColor": "green"
+	},
+	{
+		"name": "Watermelon, Mini",
+		"value": "3421",
+		"uiColor": "green"
+	},
+	{
+		"name": "Watermelon, Seedless",
+		"keywords": ["watermelon"],
+		"value": "4032",
+		"uiColor": "green"
+	}
 ]
