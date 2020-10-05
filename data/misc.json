@@ -24,6 +24,12 @@
 		"uiColor": "aqua"
 	},
 	{
+		"name": "24pk Water, Aquafina",
+		"keywords": ["water", "aquafina"],
+		"value": "012000504044",
+		"uiColor": "aqua"
+	},
+	{
 		"name": "Reusable Bag, Bullseye Canvas - Target",
 		"keywords": ["reusable bag", "target"],
 		"value": "067914555651",
