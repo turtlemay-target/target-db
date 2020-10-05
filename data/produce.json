@@ -41,7 +41,7 @@
   {
     "name": "Banana",
     "value": "8011",
-    "keywords": ["banana"],
+    "priority-keywords": ["banana"],
     "uiColor": "yellow"
   },
   {
