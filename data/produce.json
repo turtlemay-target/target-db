@@ -1,5 +1,11 @@
 [
 	{
+		"name": "Apple - Honey Crisp",
+		"keywords": ["apple"],
+		"value": "4195",
+		"uiColor": "red"
+	},
+	{
 		"name": "Apple - Gala",
 		"keywords": ["apple"],
 		"value": "4205",
@@ -9,12 +15,6 @@
 		"name": "Apple - Fuji",
 		"keywords": ["apple"],
 		"value": "4216",
-		"uiColor": "red"
-	},
-	{
-		"name": "Apple - Honey Crisp",
-		"keywords": ["apple"],
-		"value": "4195",
 		"uiColor": "red"
 	},
 	{
