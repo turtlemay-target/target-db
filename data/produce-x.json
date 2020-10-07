@@ -6,6 +6,12 @@
 		"uiColor": "yellow"
 	},
 	{
+		"name": "Cucumber",
+		"value": "4593",
+		"keywords": ["cucumber"],
+		"uiColor": "green"
+	},
+	{
 		"name": "Pumpkin",
 		"keywords": ["pumpkin", "jack o lantern", "carving"],
 		"value": "4735",
@@ -22,5 +28,11 @@
 		"keywords": ["grapes"],
 		"value": "014668715053",
 		"uiColor": "purple"
+	},
+	{
+		"name": "Lettuce",
+		"value": "4061",
+		"keywords": ["lettuce"],
+		"uiColor": "green"
 	}
 ]
