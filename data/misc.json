@@ -40,5 +40,10 @@
 		"keywords": ["reusable bag", "tote", "target"],
 		"value": "813287025228",
 		"uiColor": "red"
+	},
+	{
+		"name": "Reusable bag discount",
+		"value": "98560502101779570128393650",
+		"uiColor": "red"
 	}
 ]
