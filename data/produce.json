@@ -24,6 +24,7 @@
 	},
 	{
 		"name": "Apple - Granny Smith",
+		"keywords": ["apple", "granny"],
 		"value": "4575",
 		"uiColor": "green"
 	},
@@ -74,13 +75,13 @@
 	},
 	{
 		"name": "Lemon",
-		"keywords": ["lemon"],
+		"keywords": ["lemon", "limon"],
 		"value": "4033",
 		"uiColor": "yellow"
 	},
 	{
 		"name": "Lime",
-		"keywords": ["lime"],
+		"keywords": ["lime", "limon"],
 		"value": "4048",
 		"uiColor": "green"
 	},
@@ -113,31 +114,31 @@
 	},
 	{
 		"name": "Onion - Red",
-		"keywords": ["onion"],
+		"keywords": ["onion", "red onion"],
 		"value": "4085",
 		"uiColor": "purple"
 	},
 	{
 		"name": "Onion - Sweet",
-		"priority-keywords": ["onion"],
+		"priority-keywords": ["onion", "sweet onion"],
 		"value": "4666",
 		"uiColor": "yellow"
 	},
 	{
 		"name": "Onion - White",
-		"keywords": ["onion"],
+		"keywords": ["onion", "white onion"],
 		"value": "4660",
 		"uiColor": "white"
 	},
 	{
 		"name": "Potato - Russet",
-		"priority-keywords": ["potato"],
+		"priority-keywords": ["potato", "idaho"],
 		"value": "4725",
 		"uiColor": "brown"
 	},
 	{
 		"name": "Potato - Sweet Potato",
-		"keywords": ["sweet potato"],
+		"keywords": ["sweet potato", "yam"],
 		"value": "9091",
 		"uiColor": "orange"
 	},
@@ -164,7 +165,7 @@
 	},
 	{
 		"name": "Honeydew",
-		"keywords": ["melon"],
+		"keywords": ["melon", "honeydew"],
 		"value": "4034",
 		"uiColor": "green"
 	},
