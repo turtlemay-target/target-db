@@ -8,14 +8,14 @@
     },
     {
         "name": "Coca-Cola, 12pk",
-        "priority-keywords": ["coke"],
+        "priority-keywords": ["coke", "coca-cola"],
         "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
         "value": "049000028904",
         "uiColor": "red"
     },
     {
         "name": "Diet Coke, 12pk",
-        "priority-keywords": ["diet coke"],
+        "priority-keywords": ["diet coke", "coca-cola"],
         "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
         "value": "049000028911",
         "uiColor": "white"
