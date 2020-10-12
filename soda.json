@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Sprite, 12pk",
+        "priority-keywords": ["sprite"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "049000028928",
+        "uiColor": "green"
+    },
+    {
+        "name": "Coca-Cola, 12pk",
+        "priority-keywords": ["coke"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "049000028904",
+        "uiColor": "red"
+    },
+    {
+        "name": "Diet Coke, 12pk",
+        "priority-keywords": ["diet coke"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "049000028911",
+        "uiColor": "white"
+    },
+    {
+        "name": "Dr. Pepper, 12pk",
+        "priority-keywords": ["dr. pepper"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "078000082166",
+        "uiColor": "red"
+    },
+    {
+        "name": "Diet Dr. Pepper, 12pk",
+        "priority-keywords": ["diet dr. pepper"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "078000083163",
+        "uiColor": "red"
+    },
+    {
+        "name": "Pepsi Cola, 12pk",
+        "priority-keywords": ["pepsi"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "012000809941",
+        "uiColor": "blue"
+    },
+    {
+        "name": "Diet Pepsi Cola, 12pk",
+        "priority-keywords": ["diet pepsi"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "012000171864",
+        "uiColor": "blue"
+    },
+    {
+        "name": "Mountain Dew, 12pk",
+        "priority-keywords": ["mountain dew"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "012000809965",
+        "uiColor": "green"
+    },
+    {
+        "name": "Diet Mountain Dew, 12pk",
+        "priority-keywords": ["diet mountain dew"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "012000809972",
+        "uiColor": "green"
+    }
+]
