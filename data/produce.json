@@ -48,6 +48,7 @@
 	{
 		"name": "Banana (Plantain)",
 		"value": "4235",
+		"priority-keywords": ["plantain"],
 		"uiColor": "green"
 	},
 	{
