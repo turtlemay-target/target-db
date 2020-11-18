@@ -34,5 +34,12 @@
 		"value": "4061",
 		"keywords": ["lettuce"],
 		"uiColor": "green"
+	},
+	{
+		"name": "Pomegranate",
+		"value": "3440",
+		"keywords": ["pomegranate"],
+		"uiColor": "red"
 	}
+
 ]
