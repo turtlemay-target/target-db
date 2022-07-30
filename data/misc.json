@@ -1,41 +1,5 @@
 [
 	{
-		"name": "24pk Water, Good & Gather",
-		"keywords": ["water", "gather", "good and gather"],
-		"value": "085239045381",
-		"uiColor": "aqua"
-	},
-	{
-		"name": "28pk Water, Nestle Pure Life",
-		"keywords": ["water", "pure life"],
-		"value": "068274735295",
-		"uiColor": "aqua"
-	},
-	{
-		"name": "24pk Water, Ice Mountain",
-		"keywords": ["water", "ice mountain"],
-		"value": "083046004027",
-		"uiColor": "aqua"
-	},
-	{
-		"name": "24pk Water, Dasani",
-		"keywords": ["water", "dasani"],
-		"value": "049000031652",
-		"uiColor": "aqua"
-	},
-	{
-		"name": "24pk Water, Aquafina",
-		"keywords": ["water", "aquafina"],
-		"value": "012000504044",
-		"uiColor": "aqua"
-	},
-	{
-		"name": "1gal Water, Good & Gather",
-		"keywords": ["water", "gather", "good and gather"],
-		"value": "085239047668",
-		"uiColor": "aqua"
-	},
-	{
 		"name": "Reusable Bag, Bullseye Canvas - Target",
 		"keywords": ["reusable bag", "target"],
 		"value": "067914555651",
