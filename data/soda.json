@@ -7,6 +7,13 @@
         "uiColor": "green"
     },
     {
+        "name": "Fresca, 12pk",
+        "priority-keywords": ["fresca"],
+        "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+        "value": "049000031058",
+        "uiColor": "blue"
+    },
+    {
         "name": "Coca-Cola, 12pk",
         "priority-keywords": ["coke", "coca-cola"],
         "keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
