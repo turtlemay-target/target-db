@@ -93,9 +93,15 @@
 		"uiColor": "yellow"
 	},
 	{
-		"name": "Orange (Large)",
-		"keywords": ["orange"],
+		"name": "Orange, Navel (Medium)",
+		"keywords": ["navel orange medium"],
 		"value": "3107",
+		"uiColor": "orange"
+	},
+	{
+		"name": "Orange, Navel (Large)",
+		"keywords": ["navel orange large"],
+		"value": "4012",
 		"uiColor": "orange"
 	},
 	{
