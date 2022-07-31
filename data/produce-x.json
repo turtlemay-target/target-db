@@ -1,5 +1,11 @@
 [
 	{
+		"name": "Apple - Cosmic Crisp",
+		"keywords": ["apple", "cosmic crisp"],
+		"value": "4193",
+		"uiColor": "red"
+	},
+	{
 		"name": "Organic Bananas - 2lb bunch",
 		"value": "074904100005",
 		"keywords": ["organic bananas", "bananas organic"],
