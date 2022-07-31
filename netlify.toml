@@ -1,9 +1,9 @@
 [[redirects]]
-    from = "/*"
-    to = "/data.json"
-    status = 200
+	from = "/*"
+	to = "/data.json"
+	status = 200
 
 [[headers]]
-    for = "/*"
-        [headers.values]
-        Access-Control-Allow-Origin = "*"
+	for = "/*"
+		[headers.values]
+		Access-Control-Allow-Origin = "*"

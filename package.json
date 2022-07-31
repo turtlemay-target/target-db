@@ -1,16 +1,16 @@
 {
-    "private": true,
-    "name": "target-db",
-    "version": "0.3.0",
-    "scripts": {
-        "validate": "foy validate",
-        "build": "foy build",
-        "postinstall": "foy build"
-    },
-    "devDependencies": {
-        "@types/node": "^15.12.1",
-        "foy": "^0.2.7",
-        "jsonschema": "^1.4.0",
-        "turtlemay-cashier-db-schema": "turtlemay/cashier-db-schema"
-    }
+	"private": true,
+	"name": "target-db",
+	"version": "0.3.0",
+	"scripts": {
+		"validate": "foy validate",
+		"build": "foy build",
+		"postinstall": "foy build"
+	},
+	"devDependencies": {
+		"@types/node": "^15.12.1",
+		"foy": "^0.2.7",
+		"jsonschema": "^1.4.0",
+		"turtlemay-cashier-db-schema": "turtlemay/cashier-db-schema"
+	}
 }
