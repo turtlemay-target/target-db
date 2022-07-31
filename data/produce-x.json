@@ -24,9 +24,21 @@
 		"uiColor": "green"
 	},
 	{
+		"name": "Organic Green Seedless Grapes - 1.5lb Bag",
+		"keywords": ["grapes organic"],
+		"value": "014668715060",
+		"uiColor": "green"
+	},
+	{
 		"name": "Red Seedless Grapes - 1.5lb Bag",
 		"keywords": ["grapes"],
 		"value": "014668715053",
+		"uiColor": "purple"
+	},
+	{
+		"name": "Organic Red Seedless Grapes - 1.5lb Bag",
+		"keywords": ["grapes organic"],
+		"value": "014668715077",
 		"uiColor": "purple"
 	},
 	{
