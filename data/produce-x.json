@@ -54,6 +54,12 @@
 		"uiColor": "green"
 	},
 	{
+		"name": "Cabbage",
+		"value": "605806135057",
+		"keywords": ["cabbage"],
+		"uiColor": "green"
+	},
+	{
 		"name": "Pomegranate",
 		"value": "3440",
 		"keywords": ["pomegranate"],
