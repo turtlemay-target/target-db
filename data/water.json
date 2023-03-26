@@ -6,6 +6,12 @@
 		"uiColor": "aqua"
 	},
 	{
+		"name": "24pk/8floz Water, Good & Gather",
+		"keywords": ["water", "gather", "good and gather"],
+		"value": "085239045374",
+		"uiColor": "aqua"
+	},
+	{
 		"name": "32pk Water, Good & Gather",
 		"keywords": ["water", "gather", "good and gather"],
 		"value": "085239113127",
@@ -15,6 +21,12 @@
 		"name": "28pk Water, Nestle Pure Life",
 		"keywords": ["water", "pure life"],
 		"value": "068274735295",
+		"uiColor": "aqua"
+	},
+	{
+		"name": "32pk Water, Nestle Pure Life",
+		"keywords": ["water", "pure life"],
+		"value": "068274734410",
 		"uiColor": "aqua"
 	},
 	{
