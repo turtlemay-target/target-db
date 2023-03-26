@@ -77,6 +77,20 @@
 		"uiColor": "red"
 	},
 	{
+		"name": "Dr. Pepper Zero Sugar, 12pk",
+		"priority-keywords": ["dr. pepper zero"],
+		"keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+		"value": "078000035261",
+		"uiColor": "black"
+	},
+	{
+		"name": "Dr. Pepper Cream Soda, 12pk",
+		"priority-keywords": ["dr. pepper cream"],
+		"keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+		"value": "078000033496",
+		"uiColor": "brown"
+	},
+	{
 		"name": "Pepsi Cola, 12pk",
 		"priority-keywords": ["pepsi"],
 		"keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
@@ -175,6 +189,13 @@
 		"uiColor": "orange"
 	},
 	{
+		"name": "Sunkist Zero Sugar Orange Soda, 12pk",
+		"priority-keywords": ["sunkist zero"],
+		"keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+		"value": "078000122169",
+		"uiColor": "black"
+	},
+	{
 		"name": "Canada Dry Ginger Ale, 12pk",
 		"priority-keywords": ["canada dry", "ginger ale"],
 		"keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
@@ -224,6 +245,13 @@
 		"uiColor": "brown"
 	},
 	{
+		"name": "A&W Root Beer Zero, 12pk",
+		"priority-keywords": ["a&w root beer zero", "aw root beer zero", "a&w zero", "aw zero"],
+		"keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+		"value": "078000053067",
+		"uiColor": "black"
+	},
+	{
 		"name": "Barq's Root Beer, 12pk",
 		"priority-keywords": ["barq's root beer", "barqs root beer"],
 		"keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
@@ -257,5 +285,26 @@
 		"keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
 		"value": "078000017168",
 		"uiColor": "white"
+	},
+	{
+		"name": "Squirt Zero, 12pk",
+		"priority-keywords": ["squirt zero"],
+		"keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+		"value": "078000017168",
+		"uiColor": "black"
+	},
+	{
+		"name": "Starry Lemon Lime Soda, 12pk",
+		"priority-keywords": ["starry"],
+		"keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+		"value": "012000221606",
+		"uiColor": "green"
+	},
+	{
+		"name": "Starry Zero Lemon Lime Soda, 12pk",
+		"priority-keywords": ["starry zero"],
+		"keywords": ["soda", "pop", "12pk", "12 pack", "cans"],
+		"value": "012000221637",
+		"uiColor": "black"
 	}
 ]
